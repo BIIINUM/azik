@@ -1,0 +1,2 @@
+# azik
+myshopi.kz
